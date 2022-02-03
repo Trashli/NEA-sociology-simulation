@@ -1,0 +1,127 @@
+N:\NEA sociology simulation\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+N:\NEA sociology simulation\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+N:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+N:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+N:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+N:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+N:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+F:\NEA sociology simulation\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+F:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+F:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+F:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+F:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+F:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation multithread\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+N:\NEA sociology simulation multithread\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation multithread\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+N:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+N:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+N:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+N:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+N:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+F:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+F:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+F:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+F:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+F:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation multithread\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation multithread\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+F:\NEA sociology simulation multithread\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation multithread\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form2.resources
+F:\NEA sociology simulation Advanced Options\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form3.resources
+F:\NEA sociology simulation Saving\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+F:\NEA sociology simulation Saving\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation Saving\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form2.resources
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form3.resources
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form4.resources
+N:\NEA sociology simulation Saving\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+N:\NEA sociology simulation Saving\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation Saving\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form2.resources
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form3.resources
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form4.resources
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation Saving\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form5.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form2.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form3.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form4.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form5.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form7.resources
+N:\NEA sociology simulation SQL QUIZ - BACKUP\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form6.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form5.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe.config
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\bin\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\bin\Debug\NEA sociology simulation.pdb
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.csprojAssemblyReference.cache
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form1.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Form5.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.Properties.Resources.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.GenerateResource.cache
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.csproj.CoreCompileInputs.cache
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.exe
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA sociology simulation.pdb
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.AdvancedOptionsForm.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.LoadSimulationForm.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.SaveSimulationForm.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.QuizSelectionForm.resources
+N:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.QuizMakingForm.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.AdvancedOptionsForm.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.LoadSimulationForm.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.SaveSimulationForm.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.QuizSelectionForm.resources
+F:\NEA sociology simulation SQL QUIZ\NEA sociology simulation\obj\Debug\NEA_sociology_simulation.QuizMakingForm.resources
